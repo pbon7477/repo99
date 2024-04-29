@@ -1,0 +1,20 @@
+
+body{
+    background:#222;
+    color:aquamarine;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px dashed #999;
+    padding: 20px;
+}
+
+p{
+    color:#fff;
+}
