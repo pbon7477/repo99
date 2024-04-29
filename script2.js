@@ -1,2 +1,2 @@
-let nombre = 'Marcelita';
+let nombre = 'Caroline';
 alert(`Hola ${nombre}`);
